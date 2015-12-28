@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<opencv_storage>
+	<aamModelFileName>"01.face.2011.12.11.aam_basic"</aamModelFileName>
+	
+	<heightShift>0.15</heightShift>
+	<widthShift>0.0</widthShift>
+		
+	<verticalShrink>0.65</verticalShrink>
+	<horizontalShrink>0.65</horizontalShrink>
+	
+	<!-- DRAW_POINT, DRAW_TRIANGLE, DRAW_APPEARANCE -->
+	<drawStyle>"DRAW_POINT"</drawStyle>
+</opencv_storage>
